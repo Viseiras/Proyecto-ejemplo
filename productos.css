@@ -4,13 +4,15 @@
 
 header{
  font-weight:700,
- color:orange
+ color:orange,
+ font-style:italic
 }
 
 footer{
  background-color:light-blue,
  font-weight:700,
- color:white
+ color:white,
+ font-style:italic
 }
 
 body{

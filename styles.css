@@ -1,19 +1,19 @@
 *{
- background-color:grey
+ background-color:grey;
 }
 
 header{
- font-weight:700,
- color:orange
+ font-weight:700;
+ color:orange;
 }
 
 footer{
- background-color:light-blue,
- font-weight:700,
- color:white
+ background-color:light-blue;
+ font-weight:700;
+ color:white;
 }
 
 body{
- background-color:light-grey,
- font-family:sans-serif
+ background-color:light-grey;
+ font-family:sans-serif;
 }
